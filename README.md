@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-Привет! 👋 Я frontend разработчик, создаю современные веб-приложения и интерактивные интерфейсы. 💻✨
+Hello! 👋 I'm a frontend developer, creating modern web applications and interactive interfaces. 💻✨
 
 ---
 
