@@ -7,7 +7,6 @@
 ## 🔗 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sup_45)
-
 [![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/sup145)
 
 ---
@@ -39,8 +38,9 @@
 
   
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ivansups&theme=dark&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakLabel=E91E63)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=ffffff&icon_color=E91E63)
 
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ivansups&theme=dark&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakLabel=E91E63)
 </div>
 
 ## 📈 Most Used Languages:
