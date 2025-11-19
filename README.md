@@ -36,13 +36,13 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakLabel=E91E63)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Ivansups&theme=dark&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakLabel=E91E63)
 
 </div>
 
 ## 📈 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=ffffff&icon_color=E91E63)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=ffffff&icon_color=E91E63)
 
 ---
 
