@@ -6,10 +6,8 @@
 
 ## 🔗 Socials:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/your_profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/sup](https://t.me/sup_45))
+[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)]([https://vk.com/your_profile](https://vk.ru/sup145))
 
 ---
 
