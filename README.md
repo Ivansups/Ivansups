@@ -6,8 +6,8 @@
 
 ## 🔗 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/sup](https://t.me/sup_45))
-[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)]([https://vk.com/your_profile](https://vk.ru/sup145))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sup_45)
+[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/sup145)
 
 ---
 
