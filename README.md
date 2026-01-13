@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Иван%20Sup&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Заголовок"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ivansups&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Заголовок"/>
 </p>
 
 <h3 align="center">
