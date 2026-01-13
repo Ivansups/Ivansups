@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=Frontend+Developer;Crafting+Modern+Web+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=Ivansups" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -38,21 +38,16 @@
 ## 📊 Development Stats
 
 <div align="center">
-  <table align="center" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=radical&hide_border=true&bg_color=45,1a1a2e,16213e&title_color=fff&text_color=fff&icon_color=6A11CB" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=compact&theme=radical&hide_border=true&bg_color=45,16213e,0f3460&title_color=fff&text_color=fff" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivansups&theme=radical&hide_border=true&background=45,1a1a2e,16213e&stroke=6A11CB&ring=6A11CB&fire=6A11CB&currStreakLabel=6A11CB" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  
+  <!-- Статистика профиля -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  
+  <!-- Самые используемые языки -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  
+  <!-- Стрик активности -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivansups&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
+  
 </div>
 
 ---
@@ -73,4 +68,8 @@
   <a href="https://github.com/Ivansups">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivansups&color=6A11CB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
