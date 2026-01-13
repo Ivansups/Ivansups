@@ -1,55 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ivansups&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Заголовок"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PlatovD&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </p>
 
-<h3 align="center">
-  Frontend Developer | Создаю интерактивные интерфейсы с акцентом на производительность
-</h3>
+<h1 align="center">🍟️ Dima | Fullstack Developer</h1>
+<h3 align="center">Превращаю идеи в элегантные приложения, исследуя новые технологии</h3>
+
+---
+
+## 🚀 Обо мне
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ivansups&color=ff69b4&style=flat-square&label=ПРОСМОТРЫ" alt="Просмотры" />
+  Привет! Я увлечен созданием небольших, элегантных приложений и интерактивных веб-сайтов. <br>
+  Для меня разработка — это постоянное обучение, изучение новых технологий и выход за границы возможного. <br>
+  Каждый проект — это шанс вырасти, отточить навыки и стать лучшей версией себя.
 </p>
 
 ---
 
-### 💼 Технологический стек
-<!-- Все иконки центрированы и используют плавные SVG-изображения -->
+## 💻 Мой технологический стек
+
+### ⚡ **Фреймворки & Библиотеки** (Основной фокус)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spring,django,hibernate,fastapi,javafx&theme=light&perline=5" height="50" />
 </p>
+
+### 🗣️ **Языки программирования**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,mysql,docker,kubernetes&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp&theme=light&perline=4" height="50" />
+</p>
+
+### 🎨 **Фронтенд**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=light&perline=2" height="50" />
+</p>
+
+### 🗄️ **Базы данных**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=light&perline=3" height="50" />
+</p>
+
+### ⚙️ **DevOps & Инструменты**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,apache,git,github&theme=light&perline=5" height="50" />
 </p>
 
 ---
 
-### 📊 Статистика разработки
-<!-- Карточки статистики с градиентным фоном и выравниванием по центру -->
+## 📊 GitHub статистика
+
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PlatovD&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d1117,161b22&title_color=ff7ed3&icon_color=ff7ed3" alt="Статистика" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlatovD&layout=compact&theme=radical&hide_border=true&bg_color=30,161b22,0d1117&title_color=ff7ed3" alt="Языки" />
+
+</div>
+
+<div align="center">
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PlatovD&theme=radical&hide_border=true&background=30,0d1117,161b22&stroke=ff7ed3&ring=ff7ed3&fire=ff7ed3&currStreakLabel=ff7ed3" alt="Ряд активности" />
+  
+</div>
+
+---
+
+## 🤝 **Давайте создадим что-то удивительное вместе!**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=default&hide_border=true&bg_color=45,ff7ed3,6a11cb&title_color=fff&text_color=fff&icon_color=fff" alt="Статистика" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=compact&theme=default&hide_border=true&bg_color=45,6a11cb,2575fc&title_color=fff&text_color=fff" alt="Языки" />
+  Всегда открыт для интересных проектов, обсуждения технологий или просто общения о разработке
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivansups&theme=default&hide_border=true&background=45,FF7ED3,6A11CB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Ряд активности" />
+  <img src="https://komarev.com/ghpvc/?username=PlatovD&color=ff7ed3&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Просмотры" />
 </p>
 
 ---
 
-### 📫 Контакты
-<!-- Плавные иконки для контактов, центрированные -->
 <p align="center">
-  <a href="https://t.me/sup_45">
-    <img src="https://img.shields.io/badge/Telegram-sup__45-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram"/>
-  </a>
-  <a href="https://vk.ru/sup145">
-    <img src="https://img.shields.io/badge/VKontakte-sup145-0077FF?style=for-the-badge&logo=vk&logoColor=white&color=0077FF" alt="VKontakte"/>
-  </a>
-  <a href="https://github.com/Ivansups">
-    <img src="https://img.shields.io/badge/GitHub-Ivansups-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>💡 Код — это поэзия, написанная логикой</i>
+  <i>💭 "Каждая строчка кода — шаг к лучшей версии себя"</i>
 </p>
