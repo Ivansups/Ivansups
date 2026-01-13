@@ -1,69 +1,55 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=FF7ED3&center=true&vCenter=true&width=500&lines=Привет!+👋;Я+Иван%2C;Frontend+Developer" alt="Typing SVG" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Иван%20Sup&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Заголовок"/>
+</p>
+
+<h3 align="center">
+  Frontend Developer | Создаю интерактивные интерфейсы с акцентом на производительность
+</h3>
 
 <p align="center">
-  Создаю интерактивные и отзывчивые интерфейсы с акцентом на производительность и UX
-</p>
-
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=Ivansups&color=ff7ed3&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
-  
-</div>
-
----
-
-### 💼 Мой технологический портфель
-
-<h3 align="left">Основной стек:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
-</p>
-
-<h3 align="left">Backend и базы данных:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgresql,mysql" />
-</p>
-
-<h3 align="left">Инструменты и DevOps:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,github" />
+  <img src="https://komarev.com/ghpvc/?username=Ivansups&color=ff69b4&style=flat-square&label=ПРОСМОТРЫ" alt="Просмотры" />
 </p>
 
 ---
 
-### 📊 Моя статистика разработки
-
-<div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117) |
-|:---:|:---:|
-  
-</div>
-
-<div align="center">
-  
-  ![Стрик активности](https://github-readme-streak-stats.herokuapp.com/?user=Ivansups&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF7ED3&ring=FF7ED3&fire=FF7ED3&currStreakLabel=FF7ED3)
-  
-</div>
+### 💼 Технологический стек
+<!-- Все иконки центрированы и используют плавные SVG-изображения -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github&theme=light&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,mysql,docker,kubernetes&theme=light&perline=7" />
+</p>
 
 ---
 
-### 🤝 Способы связи
+### 📊 Статистика разработки
+<!-- Карточки статистики с градиентным фоном и выравниванием по центру -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=default&hide_border=true&bg_color=45,ff7ed3,6a11cb&title_color=fff&text_color=fff&icon_color=fff" alt="Статистика" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=compact&theme=default&hide_border=true&bg_color=45,6a11cb,2575fc&title_color=fff&text_color=fff" alt="Языки" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivansups&theme=default&hide_border=true&background=45,FF7ED3,6A11CB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Ряд активности" />
+</p>
+
+---
+
+### 📫 Контакты
+<!-- Плавные иконки для контактов, центрированные -->
 <p align="center">
   <a href="https://t.me/sup_45">
-    <img src="https://img.shields.io/badge/Telegram-sup__45-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-sup__45-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram"/>
   </a>
   <a href="https://vk.ru/sup145">
-    <img src="https://img.shields.io/badge/VK-sup145-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte" />
+    <img src="https://img.shields.io/badge/VKontakte-sup145-0077FF?style=for-the-badge&logo=vk&logoColor=white&color=0077FF" alt="VKontakte"/>
   </a>
   <a href="https://github.com/Ivansups">
-    <img src="https://img.shields.io/badge/GitHub-Ivansups-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Ivansups-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
   </a>
 </p>
 
----
+<p align="center">
+  <i>💡 Код — это поэзия, написанная логикой</i>
+</p>
