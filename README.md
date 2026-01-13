@@ -1,55 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ivansups&fontSize=80&fontAlignY=35&animation=fadeIn" alt="Заголовок"/>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=PlatoVD;Fullstack+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
 <h3 align="center">
-  Frontend Developer | Создаю интерактивные интерфейсы с акцентом на производительность
+  Crafting elegant applications and exploring new frontiers of technology
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ivansups&color=ff69b4&style=flat-square&label=ПРОСМОТРЫ" alt="Просмотры" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" alt="Wavy Divider" />
 </p>
 
 ---
 
-### 💼 Технологический стек
-<!-- Все иконки центрированы и используют плавные SVG-изображения -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github&theme=light&perline=8" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,mysql,docker,kubernetes&theme=light&perline=7" />
-</p>
+## 👨‍💻 About Me
 
----
-
-### 📊 Статистика разработки
-<!-- Карточки статистики с градиентным фоном и выравниванием по центру -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivansups&show_icons=true&theme=default&hide_border=true&bg_color=45,ff7ed3,6a11cb&title_color=fff&text_color=fff&icon_color=fff" alt="Статистика" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivansups&layout=compact&theme=default&hide_border=true&bg_color=45,6a11cb,2575fc&title_color=fff&text_color=fff" alt="Языки" />
+  Hello there! 👋 I'm Dima (PlatoVD), passionate about turning ideas into reality through code. For me, development is about constant learning and pushing boundaries with every project.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivansups&theme=default&hide_border=true&background=45,FF7ED3,6A11CB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Ряд активности" />
+  <strong>Let's build something amazing together!</strong>
 </p>
 
 ---
 
-### 📫 Контакты
-<!-- Плавные иконки для контактов, центрированные -->
+## 🚀 Core Frameworks & Libraries
+
+<h3 align="center">My Primary Tech Stack</h3>
+
 <p align="center">
-  <a href="https://t.me/sup_45">
-    <img src="https://img.shields.io/badge/Telegram-sup__45-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=26A5E4" alt="Telegram"/>
-  </a>
-  <a href="https://vk.ru/sup145">
-    <img src="https://img.shields.io/badge/VKontakte-sup145-0077FF?style=for-the-badge&logo=vk&logoColor=white&color=0077FF" alt="VKontakte"/>
-  </a>
-  <a href="https://github.com/Ivansups">
-    <img src="https://img.shields.io/badge/GitHub-Ivansups-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"/>
-  </a>
+  <strong>Backend & Fullstack Frameworks</strong>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,javafx&theme=dark&perline=4" />
 </p>
 
 <p align="center">
-  <i>💡 Код — это поэзия, написанная логикой</i>
+  <strong>Essential Libraries & Tools</strong>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=hibernate,redis,nginx,apache&theme=dark&perline=4" />
+</p>
+
+---
+
+## 💻 Tech Ecosystem
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+        <h3>Languages</h3>
+        <img src="https://skillicons.dev/icons?i=java,python,js,cpp&theme=dark&perline=4" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=2" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Databases</h3>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark&perline=3" />
+      </td>
+      <td width="50%" align="center">
+        <h3>DevOps & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark&perline=3" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Development Stats
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PlatoVD&show_icons=true&theme=radical&hide_border=true&bg_color=45,1a1a2e,16213e&title_color=fff&text_color=fff&icon_color=FF007F" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlatoVD&layout=compact&theme=radical&hide_border=true&bg_color=45,16213e,0f3460&title_color=fff&text_color=fff" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlatoVD&theme=radical&hide_border=true&background=45,1a1a2e,16213e&stroke=FF007F&ring=FF007F&fire=FF007F&currStreakLabel=FF007F" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn" alt="Wavy Footer" />
+</p>
+
+<p align="center">
+  <i>"Every project is a chance to grow and become the best version of myself."</i>
 </p>
