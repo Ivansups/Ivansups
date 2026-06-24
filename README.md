@@ -3,9 +3,7 @@
 
   <br/>
 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgresql&theme=dark&perline=3" />
 
   <br/>
 
