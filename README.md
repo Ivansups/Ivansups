@@ -9,5 +9,5 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Ivansups&color=6A11CB&style=flat&label=views&base=1056" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ivansups&color=6A11CB&style=flat&label=views" alt="Profile Views" />
 </div>
